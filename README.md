@@ -3,7 +3,7 @@
 👨‍👩‍👧‍👧 Member
 - [Kyoungmin Kang](https://github.com/kangkyoungmin)
 - [Jiyoung Sim](https://github.com/Jiyooung)
-- Hyunjung Lee
+- [Hyunjung Lee](https://github.com/Hyunnjung)
 - Minju Kim
 
 🌱 Start Date : 2021. 01. 08<br>

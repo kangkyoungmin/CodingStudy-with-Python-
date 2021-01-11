@@ -8,3 +8,5 @@
 
 🌱 Start Date : 2021. 01. 08<br>
 🌱 Language : Python<br>
+
+[1주차](1주차)

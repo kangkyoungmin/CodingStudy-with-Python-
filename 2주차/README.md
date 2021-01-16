@@ -14,8 +14,8 @@
 ## [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
 프로그래머스 Level 3
 
-## [유기농 배추](https://www.acmicpc.net/problem/1012)
-백준 1012번
+## [ATM](https://www.acmicpc.net/problem/11399)
+백준 11399번
 
 ## [강의실 배정](https://www.acmicpc.net/problem/11000)
 백준 11000번

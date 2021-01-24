@@ -1,6 +1,6 @@
 # 2주차
 
-### Study Data : 2021.01.18
+### Study Date : 2021.01.18
 
 ## [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 프로그래머스 Level 2

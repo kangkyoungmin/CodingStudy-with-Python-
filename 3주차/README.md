@@ -2,7 +2,7 @@
 
 ### Study Data : 2021.01.25
 
-## [타겟 넘버]](https://programmers.co.kr/learn/courses/30/lessons/43165)
+## [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 프로그래머스 Level 2
 
 ## [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)

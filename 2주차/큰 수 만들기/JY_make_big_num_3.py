@@ -1,6 +1,6 @@
 # programmers L2 : 큰 수 만들기
 # solved by JY
-# DATE : 2020.01.12
+# DATE : 2021.01.12
 # Greedy 알고리즘
 # k가 남으면 뒤에 잘라냄
 

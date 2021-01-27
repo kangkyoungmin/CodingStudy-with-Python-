@@ -1,6 +1,6 @@
 # programmers L3 : 섬 연결하기
 # solved by JY
-# DATE : 2020.01.13
+# DATE : 2021.01.13
 # Greedy 알고리즘 - Kruskal 알고리즘(Union-Find 사용)
 # 작은 비용부터 추가하며 수행
 # 사이클이 생기는 다리는 추가하지 않음 

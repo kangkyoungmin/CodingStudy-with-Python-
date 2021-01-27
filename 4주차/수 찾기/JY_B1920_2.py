@@ -1,6 +1,6 @@
 # baekjoon 1920 : 수 찾기
 # solved by JY
-# DATE : 2020.01.27
+# DATE : 2021.01.27
 # 이분탐색, python3으로 채점
 
 def solution(num, l_idx, r_idx):

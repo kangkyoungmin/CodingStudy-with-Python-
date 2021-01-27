@@ -1,6 +1,6 @@
 # programmers L2 : 타겟 넘버
 # solved by JY
-# DATE : 2020.01.21
+# DATE : 2021.01.21
 # 재귀 이용
 
 def f(numbers, target, idx, mysum):

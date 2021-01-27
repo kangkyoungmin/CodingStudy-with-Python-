@@ -1,6 +1,6 @@
 # baekjoon 2178 : 미로 탐색
 # solved by JY
-# DATE : 2020.01.19
+# DATE : 2021.01.19
 # BFS
 
 import collections

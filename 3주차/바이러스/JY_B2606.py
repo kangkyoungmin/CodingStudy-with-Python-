@@ -1,6 +1,6 @@
 # baekjoon 2606 : 바이러스
 # solved by JY
-# DATE : 2020.01.19
+# DATE : 2021.01.19
 # BFS
 
 import sys

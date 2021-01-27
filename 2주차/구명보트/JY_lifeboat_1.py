@@ -1,6 +1,6 @@
 # programmers L2 : 구명보트
 # solved by JY
-# DATE : 2020.01.12
+# DATE : 2021.01.12
 # Greedy 알고리즘
 # 몸무게가 제일 많이 나가는 친구는 가장 적게 나가는 친구와 나가면 됨
 # 단, 합이 limit가 넘지 않음.

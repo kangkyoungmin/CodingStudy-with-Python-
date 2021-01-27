@@ -1,6 +1,6 @@
 # baekjoon 12845 : 모두의 마블
 # solved by JY
-# DATE : 2020.01.17
+# DATE : 2021.01.17
 # Greedy 알고리즘
 
 def solution():

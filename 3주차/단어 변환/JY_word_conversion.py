@@ -1,6 +1,6 @@
 # programmers L3 : 단어 변환
 # solved by JY
-# DATE : 2020.01.22
+# DATE : 2021.01.22
 # DFS 이용
 
 def check(begin, word):

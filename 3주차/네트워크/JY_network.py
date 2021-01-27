@@ -1,6 +1,6 @@
 # programmers L3 : 네트워크
 # solved by JY
-# DATE : 2020.01.21
+# DATE : 2021.01.21
 # BFS 이용
 
 def bfs(computers, visit, idx):

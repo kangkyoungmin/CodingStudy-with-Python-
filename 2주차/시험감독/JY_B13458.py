@@ -1,6 +1,6 @@
 # baekjoon 13458 : 시험 감독
 # solved by JY
-# DATE : 2020.01.16
+# DATE : 2021.01.16
 
 def solution(n, a, b, c):
     answer, check = 0, {}

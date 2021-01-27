@@ -1,6 +1,6 @@
 # programmers L3 : 단속카메라
 # solved by JY
-# DATE : 2020.01.14
+# DATE : 2021.01.14
 # Greedy 알고리즘
 # 겹치는 구간에 카메라를 설치하면 되므로 겹치는 구간을 구함
 

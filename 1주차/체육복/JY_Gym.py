@@ -1,6 +1,6 @@
 # programmers L1 : 체육관
 # solved by JY
-# DATE : 2020.01.11
+# DATE : 2021.01.11
 # Greedy 알고리즘
 
 def solution(n, lost, reserve):

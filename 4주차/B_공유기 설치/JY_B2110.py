@@ -26,8 +26,6 @@ def solution(min_d, max_d):
 import sys
 input = sys.stdin.readline  # sys안하고 하면 시간 차이가 많이남
 N, C = map(int, input().split(" "))
-house = []
-for i in range(N):
-    house.append(int(input()))
+house = [int(input()) for _ in range(N)]
 house.sort()
 print(solution(1, house[-1] - house[0]))

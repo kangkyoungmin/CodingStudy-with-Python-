@@ -2,6 +2,7 @@
 # solved by JY
 # DATE : 2021.01.28
 # 이분탐색, python3 & PyPy3 채점
+# mid_h : 나무 자르는 높이
 import sys
 
 def solution():

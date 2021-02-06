@@ -4,7 +4,6 @@
 - [Kyoungmin Kang](https://github.com/kangkyoungmin)
 - [Jiyoung Sim](https://github.com/Jiyooung)
 - [Hyunjung Lee](https://github.com/Hyunnjung)
-- [Minju Kim](https://github.com/kimmin47)
 
 🌱 Start Date : 2021. 01. 08<br>
 🌱 Language : Python<br>
@@ -14,3 +13,4 @@
 - [2주차](2주차)
 - [3주차](3주차)
 - [4주차](4주차)
+- [5주차](5주차)

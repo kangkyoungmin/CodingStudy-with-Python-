@@ -1,6 +1,6 @@
 # 13주차 - [알고리즘 다지기](https://covenant.tistory.com/224)
 
-### Study Data : 2021.04.08
+### Study Data : 2021.04.09
 
 ## [수들의 합](https://www.acmicpc.net/problem/1789)
 백준 1789 실버5

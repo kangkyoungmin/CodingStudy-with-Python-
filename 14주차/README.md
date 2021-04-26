@@ -1,6 +1,6 @@
 # 14주차 - [DFS, BFS](https://covenant.tistory.com/224)
 
-### Study Data : 2021.04.16
+### Study Data : 2021.04.24
 
 ## [DFS와 BFS](https://www.acmicpc.net/problem/1260)
 백준 1260 실버2
